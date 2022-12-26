@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YuliaBukhavtsova</title>
-    <link>yuliabukhavtsova.github.io/</link>
-    <description>Recent content on YuliaBukhavtsova</description>
+    <title>Posts on YuliaBukhavtsova</title>
+    <link>yuliabukhavtsova.github.io/posts/</link>
+    <description>Recent content in Posts on YuliaBukhavtsova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 22:40:00 +0100</lastBuildDate><atom:link href="yuliabukhavtsova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 22:40:00 +0100</lastBuildDate><atom:link href="yuliabukhavtsova.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big O Notation Notes</title>
       <link>yuliabukhavtsova.github.io/posts/my-first-post/</link>
