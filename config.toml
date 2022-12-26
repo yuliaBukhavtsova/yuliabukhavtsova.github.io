@@ -182,13 +182,13 @@ canonifyURLs = true
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://media.licdn.com/dms/image/D5635AQFdjOGSk70hjA/profile-framedphoto-shrink_200_200/0/1660195420592?e=1672693200&v=beta&t=-XDR6w7rjWqe_3-BZprZIVJXJRTlAZxDMJXSq75W7cY"
+      avatarURL = "https://taplink.st/a/8/2/9/1/5f9c77.jpg?1"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Hi there! My name is Julia, Let's build something amazing together!"
+      subtitle = "Hi there! My name is Yulia, Let's build something amazing together!"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
