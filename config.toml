@@ -182,7 +182,7 @@ canonifyURLs = true
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "./public/static/julia.jpeg"
+      avatarURL = "https://media.licdn.com/dms/image/D5635AQFdjOGSk70hjA/profile-framedphoto-shrink_200_200/0/1660195420592?e=1672693200&v=beta&t=-XDR6w7rjWqe_3-BZprZIVJXJRTlAZxDMJXSq75W7cY"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
