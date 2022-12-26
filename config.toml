@@ -1,6 +1,6 @@
-baseURL = 'bukhavtsov.github.io'
+baseURL = 'yuliabukhavtsova.github.io'
 languageCode = 'en-us'
-title = 'ArtemCodes'
+title = 'YuliaBukhavtsova'
 theme = 'loveit'
 relativeURLs = true
 canonifyURLs = true
@@ -27,10 +27,10 @@ canonifyURLs = true
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "ArtemCodes"
+  title = "YuliaBukhavtsova"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "Hi there! My name is Artem, Let's build something amazing together!"
+  description = "Hi there! My name is Julia, Let's build something amazing together!"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -52,7 +52,7 @@ canonifyURLs = true
       logo = ""
       # title name
       # 标题名称
-      name = "Artem Codes"
+      name = "Yulia Bukhavtsova"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -188,7 +188,7 @@ canonifyURLs = true
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Hi there! My name is Artem, Let's build something amazing together!"
+      subtitle = "Hi there! My name is Julia, Let's build something amazing together!"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -208,17 +208,17 @@ canonifyURLs = true
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "bukhavtsov"
-    Linkedin = "bukhautsou"
+    GitHub = ""
+    Linkedin = "yuliasafrankova"
     Twitter = ""
-    Instagram = ""
+    Instagram = "yulia_dsgn"
     Facebook = ""
-    Telegram = ""
+    Telegram = "san_francisco_ya"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "UCfefVgeDIZjKP6usN3Y8wWw"
+    Youtubechannel = ""
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -257,8 +257,8 @@ canonifyURLs = true
     Slidershare = ""
     Jsfiddle = ""
     Deviantart = ""
-    Behance = ""
-    Dribbble = ""
+    Behance = "safrankowa"
+    Dribbble = "Yuliasafrankova"
     Wordpress = ""
     Vine = ""
     Googlescholar = ""
@@ -280,7 +280,7 @@ canonifyURLs = true
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = "artem.bukhavtsov@gmail.com"
+    Email = "safrankowa1@gmail.com"
     Phone = ""
     RSS = ""
 
